@@ -1,7 +1,7 @@
 version: 2
 services:
   demo-app:
-    git_url: <https://github.com/Goosepa/radiant_verse_bot>
+    git_url: https://github.com/Goosepa/radiant_verse_bot
     git_branch: master
     ports:
     - container: 5000
